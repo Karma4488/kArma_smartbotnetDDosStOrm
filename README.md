@@ -1,2 +1,2 @@
-# kArma_smartbotnetDDosStOrm
-DDoS
+#kArma_smartbotnetDDosStOrm
+
