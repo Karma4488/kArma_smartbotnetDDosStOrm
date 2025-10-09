@@ -12,6 +12,12 @@ type Guide = {
   link: string;
 };
 
+type Collective = {
+  name: string;
+  tagline: string;
+  context: string;
+};
+
 const quickChecks: QuickCheck[] = [
   {
     label: 'Project tooling',
@@ -48,6 +54,24 @@ const guides: Guide[] = [
   }
 ];
 
+const collectives: Collective[] = [
+  {
+    name: 'Anarchy',
+    tagline: 'Self-organised philosophy',
+    context: 'Highlights decentralisation and mutual aid ideals that inspire many digital movements.'
+  },
+  {
+    name: 'Anonymous',
+    tagline: 'Loose hacktivist collective',
+    context: 'Known for online operations targeting censorship and corruption, operating without formal hierarchy.'
+  },
+  {
+    name: 'LulzSec',
+    tagline: 'Short-lived offshoot of Anonymous',
+    context: 'Responsible for notable security breaches in 2011, emphasising vulnerabilities for entertainment and impact.'
+  }
+];
+
 const App = () => {
   const formattedTimestamp = useMemo(() => {
     const now = new Date();
@@ -61,10 +85,10 @@ const App = () => {
     <div className="viewport">
       <header className="hero">
         <div className="hero__content">
-          <p className="hero__eyebrow">Fusion diagnostics</p>
-          <h1 className="hero__title">Your development workspace is ready</h1>
+          <p className="hero__eyebrow">Anarchy • Anonymous • LulzSec</p>
+          <h1 className="hero__title">Workspace diagnostics and hacktivist briefing</h1>
           <p className="hero__subtitle">
-            This dashboard summarises the local tooling so you can start shipping features right away.
+            This dashboard blends your local tooling summary with key context on influential hacktivist collectives.
           </p>
           <div className="hero__meta">
             <span className="meta-indicator" aria-hidden="true" />
@@ -95,6 +119,26 @@ const App = () => {
                 </div>
                 <p className="status-card__state">{check.status}</p>
                 <p className="status-card__description">{check.description}</p>
+              </article>
+            ))}
+          </div>
+        </section>
+
+        <section className="collectives-section" aria-labelledby="collectives-heading">
+          <div className="section-heading">
+            <h2 id="collectives-heading" className="section-title">
+              Hacktivist collective snapshots
+            </h2>
+            <p className="section-subtitle">
+              Understand the philosophies and histories behind the movements often associated with digital anarchy.
+            </p>
+          </div>
+          <div className="collectives-grid">
+            {collectives.map((collective) => (
+              <article className="collective-card" key={collective.name}>
+                <h3 className="collective-card__name">{collective.name}</h3>
+                <p className="collective-card__tagline">{collective.tagline}</p>
+                <p className="collective-card__context">{collective.context}</p>
               </article>
             ))}
           </div>
