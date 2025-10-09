@@ -12,4 +12,5 @@ hi im kArma
 talk with each other & quick shift, its made in Java js json & python 🚀
 
 ---->> injoy <<----
+
 wearelegoin
