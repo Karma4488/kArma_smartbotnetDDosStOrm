@@ -7,6 +7,10 @@ k̀̿ͧ͌A̮͈̳̗̎͋͆ͫ̽̂̎͞_̵̣͉̘͙͓ͩ͆́ͨ̒͘͞͝ͅŗ̮͚̋ͯͨ͝
 smoke <cana> 🗣 💨  good 4 <head> 
                               <body>
                        <html>
+
+
+
+
 hi im kArma        
 #!---> its a ddos tool made with a smart botnet it can put more or less children, or & can figure out the ip & shift if it is better for the attack 🎯
 talk with each other & quick shift, its made in Java js json & python 🚀
