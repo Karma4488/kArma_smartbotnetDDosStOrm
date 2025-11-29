@@ -5,16 +5,18 @@ k̀̿ͧ͌A̮͈̳̗̎͋͆ͫ̽̂̎͞_̵̣͉̘͙͓ͩ͆́ͨ̒͘͞͝ͅŗ̮͚̋ͯͨ͝
 𝑊𝜀𝛥𝛾𝜀𝐿𝜀𝑔𝑖𝜃𝜂
 
 smoke <cana> 🗣 💨  good 4 <head> 
-                              <body>
-                       <html>
+                        <body>
+                  <html>
 
 
 
 
 hi im kArma        
 #!---> its a ddos tool made with a smart botnet it can put more or less children, or & can figure out the ip & shift if it is better for the attack 🎯
-talk with each other & quick shift, its made in Java js json & python 🚀
+talk with each other & quick shift, its made in js & python 🚀
 
 ---->> injoy <<----
+Made in l0v³ bY kArmasec
+----------(-_-)--------°¡
 
-wearelegion
+weareLegion
