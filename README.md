@@ -12,7 +12,7 @@ smoke <cana> 🗣 💨  good 4 <head>
 
 
 hi im kArma        
-#!---> its a ddos tool made with a smart botnet it can put more or less children, or & can figure out the ip & shift if it is better for the attack 🎯
+#!---> its a ddos tool made with a smart botnet it can put more or less children, or & can figure out the ip & shift if it is better for the attack 🎯🎩
 talk with each other & quick shift, its made in js & python 🚀
 
 ---->> injoy <<----
