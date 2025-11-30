@@ -11,9 +11,10 @@ smoke <cana> 🗣 💨  good 4 <head>
 
 
 
-hi im kArma        
-#!---> its a ddos tool made with a smart botnet it can put more or less children, or & can figure out the ip & shift if it is better for the attack 🎯🎩
-talk with each other & quick shift, its made in js & python 🚀
+hi im kArma ->🚀🎩🦝        
+#!---> its a ddos tool made with a smart botnet who can communicate with each other, i make it talk so it always will make the most destroying attack on the system : D its changes after the system got the inspection  from proxychains who changes ip hole time 🦝🎩😄 it's not easier to trace then : D 🚀  
+YO FRANCE i use u for the tests); -.- ------>> 4TheLulz & 4mybro Lucas 💚👽 <<-------° ▪︎its made in js & python 🚀🎩
+🎵🎶
 
 ---->> injoy <<----
 Made in l0v³ bY kArmasec
