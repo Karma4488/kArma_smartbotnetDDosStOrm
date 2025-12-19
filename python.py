@@ -1,4 +1,4 @@
-# safe_sim_single_target.py
+# single_target.py
 import random, numpy as np, pandas as pd
 from collections import defaultdict
 from datetime import datetime
