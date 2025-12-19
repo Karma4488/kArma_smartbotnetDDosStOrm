@@ -16,18 +16,18 @@ hi im kArma ->🚀🎩🦝
 YO FRANCE i use u for the tests); -.- ------>> 4TheLulz & 4mybro Lucas 💚👽 <<-------° in js python & javascript 🚀🎩
 🎵🎶
 
-The script claims to exploit 130 CVEs from Jenkins and GitLab in an automated manner to create a botnet.
-It attempts to infiltrate systems by leveraging unauthorized access, deploying payloads, and installing malicious services.
+exploit 130 CVEs from Jenkins and GitLab in an automated manner to create a botnet.
+infiltrate systems by leveraging unauthorized access, deploying payloads, and installing malicious services.
 
-The script includes a payload that creates a cron job (*/1 * * * *) to repeatedly download and execute a file named kArmas_bot.sh from a C2 (Command and Control) server hosted on the attacker's machine
+cron job (*/1 * * * *) to repeatedly download and execute a file named kArmas_bot.sh from a C2 (Command and Control) server hosted on the attacker's machine
 
-It writes a malicious systemd service (kArmas.service) designed to persist even after system reboots and enable continual exploitation.
+wrote with a malicious systemd service (kArmas.service) designed to persist even after system reboots and enable continual exploitation.
 
-The script includes a "spreading mechanism" to scan IP ranges and attempt to exploit other systems in the network.
+includes a "spreading mechanism" to scan IP ranges and attempt to exploit other systems in the network.
 
-It includes commands for self-destruction, clearing logs, and removing trace artifacts from an infected machine.
+commands for self-destruction, clearing logs, and removing trace artifacts from an infected machine.
 
-The attacker can open a reverse shell using Netcat (nc -lvnp $LPORT) to control the infected machine.
+The attacker can open a reverse shell using Netcat (nc -lvnp $LPORT = 4488) to control the infected machine.
 🚀🏴‍☠️🏁🤖👾🎯🚀
 
 ---->> injoy <<----
