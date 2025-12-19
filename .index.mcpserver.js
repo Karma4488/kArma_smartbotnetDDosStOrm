@@ -1,8 +1,8 @@
 {
-  "servers": {
-    "github": {
+  "servers": "127.0.0.1"
+    "github": "Karma4488"
       "type": "http",
-      "url": "https://api.githubcopilot.com/mcp/",
+      "url":  "https://api.githubcopilot.com/mcp/",
       "headers": {
         "Authorization": "Bearer ${input:github_mcp_pat}"
       }
