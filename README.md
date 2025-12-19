@@ -19,7 +19,7 @@ YO FRANCE i use u for the tests); -.- ------>> 4TheLulz & 4mybro Lucas 💚👽 
 exploit 130 CVEs from Jenkins and GitLab in an automated manner to create a botnet.
 infiltrate systems by leveraging unauthorized access, deploying payloads, and installing malicious services.
 
-cron job (*/1 * * * *) to repeatedly download and execute a file named kArmas_bot.sh from a C2 (Command and Control) server hosted on the attacker's machine
+cron job (*/1 * * * *) 
 
 wrote with a malicious systemd service (kArmas.service) designed to persist even after system reboots and enable continual exploitation.
 
