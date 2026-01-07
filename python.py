@@ -11,7 +11,7 @@ def legit(t):
     return 120 + 12 * np.sin(2*np.pi*t/180.0) + np.random.normal(0,5)
 
 # create a set of bots but concentrate on single target ip
-def simulate_single_target(num_bots=800, target_ip="18.239.83.5",
+def simulate_single_target(num_bots=800, target_ip="",
                            per_ip_limit=20, blacklist_threshold=50,
                            blacklist_duration=30, capacity=2000):
     # each bot offers some rps but all mapped to target_ip
